@@ -1,0 +1,4 @@
+development:
+  project_id: <your project_id>
+  auth_file: pub-sub-sample-auth.json
+
